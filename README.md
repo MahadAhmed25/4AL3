@@ -8,8 +8,7 @@ It serves as both a **study companion** and a **reproducible workspace** for lea
 ---
 
 ## 🧱 Repository Structure
-4AL3-Applied-Machine-Learning\
-│ \
+4AL3/ \
 ├── 📚 Lectures/ → Notes & slides by week\
 ├── 📗 Textbook_Readings/ → ISL, Deep Learning Book, MML summaries \
 ├── 🧠 Assignments/ → Coding assignments + reports\
